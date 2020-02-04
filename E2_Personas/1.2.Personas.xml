@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="1.2.Personas.xslt.xslt"?>
+<personal> 
+	<persona sexo="Hombre"> 
+		<nombre>Antonio</nombre> 
+		<apellido>Sierra</apellido> 
+		<edad>30</edad> 
+		<sueldo>2500</sueldo> 
+	</persona> 
+	<persona sexo="Mujer"> 
+		<nombre>Josefa</nombre> 
+		<apellido>Ruiz</apellido> 
+		<edad>35</edad> 
+		<sueldo>1500</sueldo> 
+	</persona> 
+	<persona sexo="Hombre"> 
+		<nombre>Carlos</nombre> 
+		<apellido>Perez</apellido> 
+		<edad>25</edad> 
+		<sueldo>2000</sueldo> 
+	</persona> 
+	<persona sexo="Mujer"> 
+		<nombre>Luisa</nombre> 
+		<apellido>Fernandez</apellido> 
+		<edad>27</edad> 
+		<sueldo>2200</sueldo> 
+		</persona> 
+</personal> 
