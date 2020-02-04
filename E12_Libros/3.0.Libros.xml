@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="5_3_1_Libros.xslt"?> 
+<libros>
+	<libro>
+		<titulo>El Quijote</titulo>
+		<capitulo>Capitulo1</capitulo>
+		<parrafo>Erase una vez en un lugar de la Mancha...</parrafo>
+	</libro>
+	<libro>
+		<titulo>Piratas del Caribe</titulo>
+		<capitulo>Capitulo1</capitulo>
+		<parrafo>Esta historia comienza en un puerto....</parrafo>
+	</libro>
+</libros>
