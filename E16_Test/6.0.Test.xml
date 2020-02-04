@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="6.0.Test.xslt"?>
+<examen>
+	 <question id="1">
+		 <enunciado>Que significa ASIR?</enunciado>
+			 <choices>
+				 <correcta>Administracion de Sistemas Informaticos en Red</correcta>
+				 <incorrecta>Administracion de Sistemas Infograficos en Red</incorrecta>
+				 <incorrecta>Administracion de Social Informaticos en Red</incorrecta>
+				 <incorrecta>Administracion de Seguros Informaticos en Red</incorrecta>
+			 </choices>
+	 </question>
+	 <question id="2">
+		 <enunciado>Que significa DAW?</enunciado>
+			 <choices>
+				 <correcta>Desarrollo de Aplicaciones Web</correcta>
+				 <incorrecta>Desarrollo de Ambiental de Web</incorrecta>
+				 <incorrecta>Desarrollo de Aplicaciones de Webgrafia</incorrecta>
+				 <incorrecta>Desarrollo de Ambiental de Webgrafia</incorrecta>
+			 </choices>
+		 </question>
+	 <question id="3">
+		 <enunciado>Que significa SMR</enunciado>
+			 <choices>
+				 <correcta>Sistemas Microinformaticos en Red</correcta>
+				 <incorrecta>Sistemas Macroinformaticos en Red</incorrecta>
+				 <incorrecta>Sistemas Macroinformaticos en Ratio</incorrecta>
+				 <incorrecta>Sistemas Microinformaticos en Red</incorrecta>
+			 </choices>
+	 </question>
+	 <question id="4">
+		 <enunciado>Que significa DAM?</enunciado>
+			 <choices>
+				 <correcta>Desarrollo de Aplicaciones Multiplataforma</correcta>
+				 <incorrecta>Desarrollo de Ambiental de Web</incorrecta>
+				 <incorrecta>Desarrollo de Aplicaciones de Webgrafia</incorrecta>
+				 <incorrecta>Desarrollo de Ambiental de Webgrafia</incorrecta>
+			 </choices>
+	 </question>
+</examen>
