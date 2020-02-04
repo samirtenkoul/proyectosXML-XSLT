@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="CiclosEjemplo2.xslt"?> 
+<ciclosformativos> 
+	<alumnos> 
+		<alumno> 
+			<nombre>Antonio</nombre> 
+			<apellido>Sierra</apellido> 
+			<dni>111111111</dni> 
+			<nota>5</nota> 
+			<fechanacimiento>03-02-2000</fechanacimiento> 
+		</alumno> 
+		<alumno> 
+			<nombre>Carlos</nombre> 
+			<apellido>Ruiz</apellido> 
+			<dni>22222222</dni> 
+			<nota>6</nota> 
+			<fechanacimiento>03-03-2000</fechanacimiento> 
+		</alumno> 
+		<alumno> 
+			<nombre>Ruben</nombre> 
+			<apellido>Arsenio</apellido> 
+			<dni>333333333</dni> 
+			<nota>7</nota> 
+			<fechanacimiento>03-11-2001</fechanacimiento> 
+		</alumno> 
+		<alumno> 
+			<nombre>Alicia</nombre> 
+			<apellido>Martin</apellido> 
+			<dni>444444444</dni> 
+			<nota>2</nota> 
+			<fechanacimiento>13-12-2000</fechanacimiento> 
+		</alumno> 
+	</alumnos> 
+</ciclosformativos>
