@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="7.Biblioteca.xslt"?>
+<biblioteca>
+	<libro>
+	<nombre>El Quijote</nombre>
+		<capitulo>Capitulo1</capitulo>
+		<parrafo>
+			Erase una vez en un lugar de la Mancha de cuyo
+			nombre no quiero acordarme vivia un caballero..
+		</parrafo>
+	</libro>
+	<libro>
+	<nombre>El Quijote</nombre>
+		<capitulo>Capitulo2</capitulo>
+		<parrafo>
+			Rocinante era el fiel caballo de Don Quijote el cual
+			tenia ademas a su fiel escudero Sancho Panza..
+		</parrafo>
+	</libro>
+</biblioteca>
