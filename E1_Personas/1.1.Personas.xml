@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="1.1.Personas.xslt"?>
+<personal>
+	<persona sexo="Hombre">
+		<nombre>Antonio</nombre>
+		<apellido>Sierra</apellido>
+	</persona>
+	<persona sexo="Mujer">
+		<nombre>Josefa</nombre>
+		<apellido>Ruiz</apellido>
+	</persona>
+	<persona sexo="Hombre">
+		<nombre>Carlos</nombre>
+		<apellido>Perez</apellido>
+	</persona>
+	<persona sexo="Mujer">
+		<nombre>Luisa</nombre>
+		<apellido>Fernandez</apellido>
+	</persona>
+	<profesor>
+		<nombre>Fede</nombre>
+		<modulos>Marcas</modulos>
+	</profesor>
+</personal>
