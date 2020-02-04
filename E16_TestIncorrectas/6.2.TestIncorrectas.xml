@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="5_6_2_TestIncorrectas.xslt"?> 
+<examen> 
+	<question id="1"> 
+		<enunciado>Que significa ASIR?</enunciado> 
+			<choices> 
+				<correcta>Administracion de Sistemas Informaticos en Red</correcta> 
+				<incorrecta id="111"> 
+					<nombre>Administracion de Sistemas Infograficos en Red</nombre> 
+						<autor>Luis</autor> 
+				</incorrecta> 
+				<incorrecta id="112"> 
+					<nombre>Administracion de Social Informaticos en Red</nombre> 
+						<autor>Luis</autor> 
+				</incorrecta>   
+				<incorrecta id="113"> 
+					<nombre>Administracion de Seguros Informaticos en Red</nombre> 
+						<autor>Luis</autor> 
+				</incorrecta>       
+			</choices> 
+	</question> 
+	<question id="2"> 
+		<enunciado>Que significa DAW?</enunciado> 
+		<choices> 
+			<correcta>Desarrollo de Aplicaciones Web</correcta> 
+			<incorrecta id="221"> 
+				<nombre>Desarrollo de Ambiental de Web</nombre> 
+				<autor>Jose</autor> 
+			</incorrecta> 
+			<incorrecta id="222"> 
+				<nombre>Desarrollo de Aplicaciones de Webgrafia</nombre> 
+				<autor>Jose</autor> 
+			</incorrecta> 
+			<incorrecta id="223"> 
+				<nombre>Desarrollo de Ambiental de Webgrafia</nombre> 
+				<autor>Jose</autor> 
+			</incorrecta> 
+		</choices> 
+	</question> 
+    <question id="3"> 
+		<enunciado>Que significa SMR</enunciado> 
+		<choices> 
+			<correcta>Sistemas Microinformaticos en Red</correcta> 
+			<incorrecta id="321"> 
+				<nombre>Sistemas Macroinformaticos en Red</nombre> 
+				<autor>Pepe</autor> 
+			</incorrecta> 
+			<incorrecta id="322"> 
+				<nombre>Sistemas Macroinformaticos en Ratio</nombre> 
+				<autor>Pepe</autor> 
+			</incorrecta>       
+			<incorrecta id="323"> 
+				<nombre>Sistemas Microinformaticos en Red</nombre> 
+				<autor>Pepe</autor> 
+			</incorrecta> 
+		</choices> 
+	</question> 
+    <question id="4"> 
+		<enunciado>Que significa DAM?</enunciado> 
+		<choices> 
+			<correcta>Desarrollo de Aplicaciones Multiplataforma</correcta> 
+			<incorrecta id="411"> 
+				<nombre>Desarrollo de Ambiental de Web</nombre> 
+				<autor>Pepa</autor> 
+			</incorrecta> 
+			<incorrecta id="412"> 
+				<nombre>Desarrollo de Aplicaciones de Webgrafia</nombre> 
+				<autor>Pepa</autor> 
+			</incorrecta> 
+			<incorrecta id="413"> 
+				<nombre>Desarrollo de Ambiental de Webgrafia</nombre> 
+				<autor>Pepa</autor> 
+			</incorrecta> 
+		</choices> 
+	</question> 
+ </examen>
